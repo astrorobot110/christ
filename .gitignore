@@ -1,4 +1,4 @@
 **/*.sw?
 Gemfile*
 _site/
-doc/
+docs/
