@@ -1,3 +1,5 @@
+baseurl: christ/
+
 theme: jekyll-theme-midnight
 
 title: Nick on github.io
