@@ -2,13 +2,12 @@
 title: Nick on github.io
 ---
 
-何ぞ？
-======
+# 何ぞ？
 
 個人的に使うためにこさえたお祈り用のテキストを雑に放り込んでいます。  
 まぁ、「[俺は俺のやり方で表現](https://youtu.be/j-rsIber_Y8)」ってのはあるんですけど…
 
-なかみ
-------
+# なかみ
 
--   [寝る前の祈り](compline.md)
+-   [寝る前の祈り](compline.html)
+-   [ロザリオの祈り](rosario.html)
