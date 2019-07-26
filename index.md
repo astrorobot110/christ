@@ -9,5 +9,6 @@ title: Nick on github.io
 
 # なかみ
 
--   [寝る前の祈り](compline.html)
--   [ロザリオの祈り](rosario.html)
+-   [寝る前の祈り](compline.md)
+-   [ロザリオの祈り](rosario.md)
+-   [十字架の道行](crusis.md)
